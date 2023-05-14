@@ -1,0 +1,15 @@
+[
+    {
+        "question": "aaa",
+        "answer": [
+            {
+                "description": "bbb",
+                "mbtiType": "S"
+            },
+            {
+                "description": "ccc",
+                "mbtiType": "N"
+            }
+        ]
+    }
+]
